@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89150921491",
+    "firebase_url": "https://flutter-gdac.firebaseio.com",
+    "project_id": "flutter-gdac",
+    "storage_bucket": "flutter-gdac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89150921491:android:8400811eefbe30517898e6",
+        "android_client_info": {
+          "package_name": "com.example.fluttergdac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89150921491-ugq9dk5mavh0duqmbgr2enkd5me2t6lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cgHDtC3cZYxt2XFU1FxgIcQx6VpkGxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89150921491-ugq9dk5mavh0duqmbgr2enkd5me2t6lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
